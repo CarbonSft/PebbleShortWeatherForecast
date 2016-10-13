@@ -2,7 +2,7 @@ var myAPIKey = '082b7856ae0c6f892326bcaf231ba539';
 
 var utcOffsetSeconds = new Date().getTimezoneOffset();
 var forecastPeriodMinutes = 60;
-var forecastLengthPeriod = 3 * 60;
+//var forecastLengthPeriod = 3 * 60;
 
 function iconFromWeatherId(weatherId) {
   if (weatherId < 600) {
