@@ -30,6 +30,13 @@
                 {
                     "file": "images/rain.png",
                     "name": "IMAGE_RAIN",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/rain.png",
+                    "name": "IMAGE_RAIN",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
